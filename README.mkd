@@ -25,6 +25,11 @@ Dieses Werk wird unter den Bedingungen der [Creative Commons Attribution-ShareAl
 * [LukasWoodtli/Rezepte](https://github.com/LukasWoodtli/Rezepte)
 
 
+## Quelle
+
+Dieses Projekt wurde von Matthias Kolja Miehl entwickelt. Du kannst die aktuelle Version von der [Projektwebsite](http://github.com/makomi/rezepte/) bekommen.
+
+
 
 [gh-mkd]: markdown-cheatsheet.pdf
 [index]: Inhaltsübersicht.mkd

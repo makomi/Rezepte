@@ -9,12 +9,12 @@ Dies ist eine Sammlung meiner liebsten Rezepte in [GitHub-flavoured Markdown][gh
 
 Ich freue mich immer über Rezeptvorschläge und entsprechende [pull requests][pr]!
 
-[Forke][fork] dazu einfach dieses repository und trage dein Rezept, mit [GitHub-Markdown][gh-mkd] formatiert, im passenden Ordner ein. Bitte übernehme hierfür die Formatierung aus bestehenden Rezepten.
+[Forke][fork] dazu einfach dieses repository und trage dein Rezept, mit [GitHub-Markdown][gh-mkd] formatiert, im passenden Ordner ein. Bitte übernehme hierfür die Formatierung aus bestehenden Rezepten. Anschließend kannst du dich in die [AUTHORS][authors-file]-Datei eintragen, damit dein Beitrag auch unabhängig von der Git history erfasst ist.
 
 
 ## Lizenz
 
-Dieses Werk wird unter den Bedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa-4.0] (CC BY-SA 4.0) veröffentlicht. Der Lizenztext kann [online][license-online] und in der [LICENSE][license-file]-Datei gelesen werden.
+Dieses Werk wird unter den Bedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa-4.0] (CC BY-SA 4.0) veröffentlicht. Der Lizenztext kann [online][license-online] und in der [LICENSE][license-file]-Datei gelesen werden. Eine Liste der an diesem Projekt Mitwirkenden findest du in der [AUTHORS][authors-file]-Datei.
 
 
 ## Vergleichbare Projekte

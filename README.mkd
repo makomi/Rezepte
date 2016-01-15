@@ -31,7 +31,7 @@ Dieses Projekt wurde von Matthias Kolja Miehl entwickelt. Du kannst die aktuelle
 
 
 
-[gh-mkd]: markdown-cheatsheet.pdf
+[gh-mkd]: https://guides.github.com/features/mastering-markdown/
 [index]: Inhaltsübersicht.mkd
 [pr]: https://help.github.com/articles/creating-a-pull-request/
 [fork]: https://help.github.com/articles/fork-a-repo/

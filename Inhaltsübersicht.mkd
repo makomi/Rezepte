@@ -13,6 +13,7 @@
 * 
 
 ## Hauptgerichte
+* [Gnocchi mit Kürbis](Hauptgerichte/Gnocchi%20mit%20Kürbis.mkd)
 * [Reis mit Avocado](Hauptgerichte/Reis%20mit%20Avocado.mkd)
 
 ## Hausmittel
